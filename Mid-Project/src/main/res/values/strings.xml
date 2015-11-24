@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mid Project</string>
+    <string name="notes_no_data">No notes</string>
+    <string name="form_firstName">First Name</string>
+    <string name="form_lastName">Last Name</string>
+    <string name="form_enter">Add</string>
+    <string name="add_note">Add Note</string>
+    <string name="form_new_note">Insert new note</string>
+    <string name="form_error_close">Close</string>
+    <string name="form_error_title">Error</string>
+    <string name="form_error_description">Please add First and Last name</string>
+    <string name="button_pressed">Update</string>
+</resources>

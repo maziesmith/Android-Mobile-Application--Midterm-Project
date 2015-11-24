@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gabrielchecchiavitali/Google Drive/Studying Stuff/University of Toronto/Android Development/6th Class/MidProject/Mid-Project/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/gabrielchecchiavitali/Google Drive/Studying Stuff/University of Toronto/Android Development/6th Class/MidProject/Mid-Project/build/intermediates/pre-dexed/debug/classes-077c73439caac81c689429c47be9885106f75961.jar" />
+    </item>
+    <item
+        jar="/Users/gabrielchecchiavitali/Google Drive/Studying Stuff/University of Toronto/Android Development/6th Class/MidProject/Mid-Project/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/gabrielchecchiavitali/Google Drive/Studying Stuff/University of Toronto/Android Development/6th Class/MidProject/Mid-Project/build/intermediates/pre-dexed/debug/classes-dc4f8b31fa8824f58cdec284dc68d86d1dd369d4.jar" />
+    </item>
+    <item
+        jar="/Users/gabrielchecchiavitali/Google Drive/Studying Stuff/University of Toronto/Android Development/6th Class/MidProject/Mid-Project/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/gabrielchecchiavitali/Google Drive/Studying Stuff/University of Toronto/Android Development/6th Class/MidProject/Mid-Project/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-4c4186ec0560461ee640998b22c3dc1cca5f071c.jar" />
+    </item>
+    <item
+        jar="/Users/gabrielchecchiavitali/Google Drive/Studying Stuff/University of Toronto/Android Development/6th Class/MidProject/Mid-Project/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/gabrielchecchiavitali/Google Drive/Studying Stuff/University of Toronto/Android Development/6th Class/MidProject/Mid-Project/build/intermediates/pre-dexed/debug/classes-b4bbd3e52114f8c182a5cf4d2df0c530cfc536a3.jar" />
+    </item>
+    <item
+        jar="/Users/gabrielchecchiavitali/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/gabrielchecchiavitali/Google Drive/Studying Stuff/University of Toronto/Android Development/6th Class/MidProject/Mid-Project/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-5033b0af797806d11aa5e23272ba41b29c6578df.jar" />
+    </item>
+
+</items>

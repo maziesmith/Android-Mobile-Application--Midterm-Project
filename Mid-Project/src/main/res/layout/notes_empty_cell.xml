@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+android:id="@android:id/empty"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:fontFamily="sans-serif-condensed"
+android:textSize="24sp"
+android:textColor="#cccccc"
+android:text="@string/notes_no_data"
+android:gravity="center"
+android:focusable="false"
+android:layout_width="match_parent"
+android:layout_height="320dp"/>
